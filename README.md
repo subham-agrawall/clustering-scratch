@@ -1,2 +1,6 @@
-# clustering-scratch
-This repository has some clustering techniques implemented from scratch to understand and grasp basic concepts.
+# Clustering from scratch
+
+This repo contains implementation of k-means and DBSCAN algorithm from scratch on a sample dataset. 
+
+## Dataset
+![Dataset](../master/output/dataset.png)
